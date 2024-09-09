@@ -4,7 +4,7 @@
 
 ---
 
-## NEW_PRODUCTS 🚀
+## PRODUCTS 🚀
 
 NULL
 
