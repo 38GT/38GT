@@ -10,7 +10,7 @@ NULL
 
 
 ## IN_PRODUCTION ⚙️
-### 📦 **DARTBOT** - Real-time Data Streaming Service
+### 📦 **DARTBOT**: Real-time Data Streaming Service
 
 
 ## LABS 🔬
