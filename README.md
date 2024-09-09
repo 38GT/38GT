@@ -14,9 +14,8 @@
 ## IN_PRODUCTION ⚙️
 ### 📦 [**DARTBOT**](https://github.com/38GT/DARTBOT)
 
-## LABS 🔬
+## GT LABS 🔬
 
-GT LABS is a space where we solve challenges encountered during product development and share the process behind innovative solutions.
-
+GT LABS is a space where we share the process of solving various problems encountered during product development.
 [GT LABS](https://38gt.github.io)
 
