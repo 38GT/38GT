@@ -5,7 +5,8 @@
 ---
 
 ## NEW_PRODUCTS 🚀
-Introducing our latest innovations straight from the production line! Check out the newly crafted products ready to revolutionize the world of tech:
+
+NULL
 
 
 ## IN_PRODUCTION ⚙️
