@@ -6,7 +6,7 @@
 
 ## PRODUCTS 🚀
 
-### 📦 [**TEST_PRODUCT1**](https://github.com/38GT/DARTBOT)
+### 📦 [**TEST_PRODUCT1**](https://github.com/38GT/DARTBOT)
 ### 📦 [**TEST_PRODUCT2**](https://github.com/38GT/DARTBOT)
 ### 📦 [**TEST_PRODUCT3**](https://github.com/38GT/DARTBOT)
 
