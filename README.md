@@ -18,4 +18,4 @@ NULL
 
 ## LABS 🔬
 
-[GT LABS](38gt.github.io)
+[GT LABS](https://38gt.github.io)
