@@ -6,13 +6,12 @@
 
 ## PRODUCTS 🚀
 
-### 📦 [**DARTBOT1**](https://github.com/38GT/DARTBOT)
-### 📦 [**DARTBOT2**](https://github.com/38GT/DARTBOT)
-### 📦 [**DARTBOT3**](https://github.com/38GT/DARTBOT)
+### 📦 [**TEST_PRODUCT1**](https://github.com/38GT/DARTBOT)
+### 📦 [**TEST_PRODUCT2**](https://github.com/38GT/DARTBOT)
+### 📦 [**TEST_PRODUCT3**](https://github.com/38GT/DARTBOT)
 
 
 ## IN_PRODUCTION ⚙️
-### 📦 [**DARTBOT**](https://github.com/38GT/DARTBOT)
 ### 📦 [**DARTBOT**](https://github.com/38GT/DARTBOT)
 
 ## LABS 🔬
