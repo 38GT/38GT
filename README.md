@@ -15,4 +15,7 @@ NULL
 
 ## LABS 🔬
 
+GT LABS is a space where we solve challenges encountered during product development and share the process behind innovative solutions.
+
 [GT LABS](https://38gt.github.io)
+
