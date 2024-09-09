@@ -16,5 +16,5 @@
 
 ## GT LABS 🔬 
 
-[GT LABS](https://38gt.github.io) is a space where we share the process of solving various problems encountered during product development.
+[GT LABS](https://38gt.github.io) is a space where we share the process of solving various problems encountered during product developments.
 
